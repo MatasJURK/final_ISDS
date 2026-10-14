@@ -7,7 +7,7 @@
 
 ---
 
-# Update: This is a re-upload of the initial thesis repository. After checking the repository, potentially sensitive data was found to be present, so a call was made to completely remove any access to it by deleting it.
+# Update: The original upload contained an old API key in a Jupyter checkpoint copy and duplicate checkpoint files. Despite the key being revoked, the repository was deleted and re-uploaded without them to avoid potential issues; no code or data was changed.
 
 ## Overview
 
