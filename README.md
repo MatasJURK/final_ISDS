@@ -7,6 +7,8 @@
 
 ---
 
+# Update: This is a re-upload of the initial thesis repository. After checking the repository, potentially sensitive data was found to be present, so a call was made to completely remove any access to it by deleting it.
+
 ## Overview
 
 This repository contains the full implementation of a two-stage compliance screening pipeline developed as a feasibility study for the **Kooksgasfabriek facilities (KGF1 and KGF2)** at Tata Steel IJmuiden, supervised by Omgevingsdienst Noordzeekanaalgebied (OD NZKG).
