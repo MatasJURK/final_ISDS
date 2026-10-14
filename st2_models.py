@@ -88,7 +88,7 @@ def call_llm_model(
     """Call the LLM with an explicit model parameter."""
     response = client.chat.completions.create(
         model=model,
-        max_tokens=LLM_MAX_TOKENS,.
+        max_tokens=LLM_MAX_TOKENS,
         messages=[
             {"role": "system", "content": system_prompt},
             {"role": "user",   "content": user_prompt},
