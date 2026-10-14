@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+Data/API.txt
+__pycache__/
+*.log
